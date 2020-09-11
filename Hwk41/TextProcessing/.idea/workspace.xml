@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3799ff14-87f0-457b-919d-e3c770c5092b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hICC1OEtfnKQ3YQGp2OSaA5nMg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/venv" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.SB_5410_Hwk4.1">
+    <configuration name="SB_5410_Hwk4.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TextProcessing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/SB_5410_Hwk4.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SB_5410_Hwk4.1_bk01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TextProcessing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/SB_5410_Hwk4.1_bk01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SB_5410_Hwk4.1_bk04_reasonable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TextProcessing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/SB_5410_Hwk4.1_bk04_reasonable.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SB_5410_Hwk4.1_copy_bk04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TextProcessing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/SB_5410_Hwk4.1_copy_bk04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TextProcessing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/try_search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.SB_5410_Hwk4.1" />
+        <item itemvalue="Python.SB_5410_Hwk4.1_bk04_reasonable" />
+        <item itemvalue="Python.SB_5410_Hwk4.1_copy_bk04" />
+        <item itemvalue="Python.try_search" />
+        <item itemvalue="Python.SB_5410_Hwk4.1_bk01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3799ff14-87f0-457b-919d-e3c770c5092b" name="Default Changelist" comment="" />
+      <created>1599689087963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599689087963</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1497" height="244" key="GridCell.Tab.0.bottom" timestamp="1599796747276">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state width="1554" height="245" key="GridCell.Tab.0.bottom/0.23.1920.1001@0.23.1920.1001" timestamp="1599718728718" />
+    <state width="1554" height="245" key="GridCell.Tab.0.bottom/0.23.1920.1002@0.23.1920.1002" timestamp="1599693990357" />
+    <state width="1497" height="244" key="GridCell.Tab.0.bottom/0.23.1920.992@0.23.1920.992" timestamp="1599796747276" />
+    <state width="1497" height="244" key="GridCell.Tab.0.bottom/0.23.1920.994@0.23.1920.994" timestamp="1599792149547" />
+    <state width="1554" height="244" key="GridCell.Tab.0.bottom/0.23.1920.995@0.23.1920.995" timestamp="1599786000230" />
+    <state width="1554" height="245" key="GridCell.Tab.0.bottom/0.23.1920.996@0.23.1920.996" timestamp="1599769691914" />
+    <state width="1554" height="245" key="GridCell.Tab.0.bottom/0.23.1920.997@0.23.1920.997" timestamp="1599759472534" />
+    <state width="1497" height="244" key="GridCell.Tab.0.center" timestamp="1599796747275">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state width="1554" height="245" key="GridCell.Tab.0.center/0.23.1920.1001@0.23.1920.1001" timestamp="1599718728717" />
+    <state width="1554" height="245" key="GridCell.Tab.0.center/0.23.1920.1002@0.23.1920.1002" timestamp="1599693990356" />
+    <state width="1497" height="244" key="GridCell.Tab.0.center/0.23.1920.992@0.23.1920.992" timestamp="1599796747275" />
+    <state width="1497" height="244" key="GridCell.Tab.0.center/0.23.1920.994@0.23.1920.994" timestamp="1599792149546" />
+    <state width="1554" height="244" key="GridCell.Tab.0.center/0.23.1920.995@0.23.1920.995" timestamp="1599786000229" />
+    <state width="1554" height="245" key="GridCell.Tab.0.center/0.23.1920.996@0.23.1920.996" timestamp="1599769691913" />
+    <state width="1554" height="245" key="GridCell.Tab.0.center/0.23.1920.997@0.23.1920.997" timestamp="1599759472534" />
+    <state width="1497" height="244" key="GridCell.Tab.0.left" timestamp="1599796747275">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state width="1554" height="245" key="GridCell.Tab.0.left/0.23.1920.1001@0.23.1920.1001" timestamp="1599718728717" />
+    <state width="1554" height="245" key="GridCell.Tab.0.left/0.23.1920.1002@0.23.1920.1002" timestamp="1599693990356" />
+    <state width="1497" height="244" key="GridCell.Tab.0.left/0.23.1920.992@0.23.1920.992" timestamp="1599796747275" />
+    <state width="1497" height="244" key="GridCell.Tab.0.left/0.23.1920.994@0.23.1920.994" timestamp="1599792149545" />
+    <state width="1554" height="244" key="GridCell.Tab.0.left/0.23.1920.995@0.23.1920.995" timestamp="1599786000229" />
+    <state width="1554" height="245" key="GridCell.Tab.0.left/0.23.1920.996@0.23.1920.996" timestamp="1599769691912" />
+    <state width="1554" height="245" key="GridCell.Tab.0.left/0.23.1920.997@0.23.1920.997" timestamp="1599759472533" />
+    <state width="1497" height="244" key="GridCell.Tab.0.right" timestamp="1599796747276">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state width="1554" height="245" key="GridCell.Tab.0.right/0.23.1920.1001@0.23.1920.1001" timestamp="1599718728718" />
+    <state width="1554" height="245" key="GridCell.Tab.0.right/0.23.1920.1002@0.23.1920.1002" timestamp="1599693990357" />
+    <state width="1497" height="244" key="GridCell.Tab.0.right/0.23.1920.992@0.23.1920.992" timestamp="1599796747276" />
+    <state width="1497" height="244" key="GridCell.Tab.0.right/0.23.1920.994@0.23.1920.994" timestamp="1599792149546" />
+    <state width="1554" height="244" key="GridCell.Tab.0.right/0.23.1920.995@0.23.1920.995" timestamp="1599786000229" />
+    <state width="1554" height="245" key="GridCell.Tab.0.right/0.23.1920.996@0.23.1920.996" timestamp="1599769691913" />
+    <state width="1554" height="245" key="GridCell.Tab.0.right/0.23.1920.997@0.23.1920.997" timestamp="1599759472534" />
+    <state x="689" y="375" key="com.intellij.ide.util.TipDialog" timestamp="1599785311052">
+      <screen x="0" y="23" width="1920" height="994" />
+    </state>
+    <state x="689" y="377" key="com.intellij.ide.util.TipDialog/0.23.1920.1001@0.23.1920.1001" timestamp="1599694075504" />
+    <state x="689" y="375" key="com.intellij.ide.util.TipDialog/0.23.1920.994@0.23.1920.994" timestamp="1599785311052" />
+  </component>
+</project>
